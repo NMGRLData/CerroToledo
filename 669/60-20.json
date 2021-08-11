@@ -146,7 +146,7 @@
     "intensity_scalar": 0.0,
     "irradiation": "NM-305",
     "irradiation_level": "A",
-    "irradiation_position": 6,
+    "irradiation_position": 7,
     "isotopes": {
         "Ar36": {
             "detector": "CDD",
@@ -196,7 +196,7 @@
     "queue_conditionals_name": "",
     "repository_identifier": "CerroToledo",
     "rlocation": "",
-    "sample": "RCC-E",
+    "sample": "WSD-1",
     "source": {
         "emission": 533.072,
         "trap": 198.483
