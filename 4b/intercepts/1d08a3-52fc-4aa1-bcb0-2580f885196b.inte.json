@@ -78,7 +78,7 @@
         "value": 0.40746027149181385
     },
     "Ar40": {
-        "error": 0.014046343967721961,
+        "error": 0.014912358998233633,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -88,13 +88,16 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "fn": 120,
+        "fn": 113,
         "include_baseline_error": true,
         "n": 120,
-        "outlier_excluded": [],
+        "outlier_excluded": [
+            0,
+            1
+        ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 4.43171437408751
+        "value": 4.456841567225878
     },
     "Ar41": {
         "error": 0.026099819569357557,
