@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0002405316583104861,
+        "error": 0.00024053165831048608,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -18,10 +18,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.015121085588878171
+        "value": 0.015121085588878178
     },
     "Ar37": {
-        "error": 0.0035775800807937505,
+        "error": 0.0035775800807937496,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -40,7 +40,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0037080012304794084
+        "value": 0.0037080012304794062
     },
     "Ar38": {
         "error": 0.003278400642992858,
@@ -62,7 +62,7 @@
         "value": 0.18242560358853455
     },
     "Ar39": {
-        "error": 0.015922349135451458,
+        "error": 0.015922349135452468,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -78,10 +78,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 9.750056662970628
+        "value": 9.750056662970643
     },
     "Ar40": {
-        "error": 0.012596343316073774,
+        "error": 0.015843407916810943,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -90,17 +90,18 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "fn": 278,
+        "fit": "parabolic",
+        "fn": 277,
         "include_baseline_error": true,
         "n": 280,
         "outlier_excluded": [
-            0,
-            4
+            176,
+            190,
+            102
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 26.185487660562817
+        "value": 25.9462250341236
     },
     "Ar41": {
         "error": 0.017990344213915634,

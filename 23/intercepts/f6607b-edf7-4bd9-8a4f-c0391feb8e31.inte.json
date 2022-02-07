@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00020902812346597553,
+        "error": 0.00020902812346597547,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -21,7 +21,7 @@
         "value": 0.011205240059776652
     },
     "Ar37": {
-        "error": 0.0036206429288878892,
+        "error": 0.003620642928887886,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -40,10 +40,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": -0.014615084506474398
+        "value": -0.014615084506474373
     },
     "Ar38": {
-        "error": 0.003285399523852339,
+        "error": 0.0032853995238523405,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -59,10 +59,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.0744769725851466
+        "value": 0.07447697258514663
     },
     "Ar39": {
-        "error": 0.01440943560064139,
+        "error": 0.014409435600641344,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -80,10 +80,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 1.3302293696678094
+        "value": 1.330229369667809
     },
     "Ar40": {
-        "error": 0.007889555315571813,
+        "error": 0.011775380722608756,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -92,14 +92,16 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
-        "fn": 280,
+        "fit": "parabolic",
+        "fn": 279,
         "include_baseline_error": true,
         "n": 280,
-        "outlier_excluded": [],
+        "outlier_excluded": [
+            269
+        ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 5.434072857061311
+        "value": 5.322263861018088
     },
     "Ar41": {
         "error": 0.016743413870256275,

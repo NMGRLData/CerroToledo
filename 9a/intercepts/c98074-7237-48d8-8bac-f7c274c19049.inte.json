@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0002112867926027845,
+        "error": 0.00021128679260278455,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -18,10 +18,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.014529717000552675
+        "value": 0.014529717000552672
     },
     "Ar37": {
-        "error": 0.0036153957552708437,
+        "error": 0.0036153957552708432,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -40,10 +40,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": -0.012783474954744727
+        "value": -0.012783474954744717
     },
     "Ar38": {
-        "error": 0.003533299025958103,
+        "error": 0.0035332990259581056,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -61,31 +61,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.07310756954179352
+        "value": 0.07310756954179348
     },
     "Ar39": {
-        "error": 0.014236537963496566,
-        "error_type": "SEM",
-        "filter_outliers_dict": {
-            "filter_outliers": true,
-            "iterations": 1,
-            "std_devs": 3,
-            "use_iqr_filtering": false,
-            "use_standard_deviation_filtering": false
-        },
-        "fit": "parabolic",
-        "fn": 279,
-        "include_baseline_error": true,
-        "n": 280,
-        "outlier_excluded": [
-            79
-        ],
-        "reviewed": true,
-        "user_excluded": [],
-        "value": 1.0516009604322647
-    },
-    "Ar40": {
-        "error": 0.00882961712803614,
+        "error": 0.00788268472214162,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -99,11 +78,32 @@
         "include_baseline_error": true,
         "n": 280,
         "outlier_excluded": [
-            8
+            79
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 5.9803899035872785
+        "value": 1.061714219589621
+    },
+    "Ar40": {
+        "error": 0.012551600998833139,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "parabolic",
+        "fn": 279,
+        "include_baseline_error": true,
+        "n": 280,
+        "outlier_excluded": [
+            19
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 5.831944596309102
     },
     "Ar41": {
         "error": 0.017344249513352686,
