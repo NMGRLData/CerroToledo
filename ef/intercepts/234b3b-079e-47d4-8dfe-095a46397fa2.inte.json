@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0002156053789757224,
+        "error": 0.0002156053789757223,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -18,7 +18,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.014765857134310077
+        "value": 0.01476585713431008
     },
     "Ar37": {
         "error": 0.003883954738134567,
@@ -39,10 +39,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": -0.003605138174776879
+        "value": -0.0036051381747768804
     },
     "Ar38": {
-        "error": 0.003384635928263549,
+        "error": 0.0033846359282635498,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -58,10 +58,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.1769255515521011
+        "value": 0.17692555155210113
     },
     "Ar39": {
-        "error": 0.007855156556578723,
+        "error": 0.014125892338159002,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -70,7 +70,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 279,
         "include_baseline_error": true,
         "n": 280,
@@ -79,10 +79,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 9.359197835738033
+        "value": 9.365898832260381
     },
     "Ar40": {
-        "error": 0.013255604337596878,
+        "error": 0.0132556043375967,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -100,7 +100,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 21.97896036518459
+        "value": 21.97896036518461
     },
     "Ar41": {
         "error": 0.017722232271467984,

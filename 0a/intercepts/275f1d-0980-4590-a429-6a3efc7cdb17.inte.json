@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00019918973386446638,
+        "error": 0.00019918973386446633,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -18,10 +18,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.013250964384657067
+        "value": 0.01325096438465706
     },
     "Ar37": {
-        "error": 0.0038350527623403734,
+        "error": 0.0038350527623403725,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -37,7 +37,7 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": -0.005338498500838418
+        "value": -0.00533849850083842
     },
     "Ar38": {
         "error": 0.003501030409339077,
@@ -58,10 +58,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.1549495849180924
+        "value": 0.15494958491809258
     },
     "Ar39": {
-        "error": 0.008490514253589014,
+        "error": 0.015373812602435451,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -70,7 +70,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 279,
         "include_baseline_error": true,
         "n": 280,
@@ -79,10 +79,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 7.366780977491472
+        "value": 7.361569963472793
     },
     "Ar40": {
-        "error": 0.013849333608895259,
+        "error": 0.013849333608894818,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -100,7 +100,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 19.80948680555594
+        "value": 19.809486805555952
     },
     "Ar41": {
         "error": 0.018634425029442268,
